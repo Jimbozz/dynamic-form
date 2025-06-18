@@ -16,7 +16,7 @@ This project is a dynamic, schema-driven form builder built with **React**, **Ty
 Clone the repository and install dependencies:
 
 ```sh
-git clone <the-repo-url>
+git clone https://github.com/Jimbozz/dynamic-form.git
 cd dynamic-form
 npm install
 ```
